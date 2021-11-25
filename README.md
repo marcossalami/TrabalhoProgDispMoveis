@@ -1,9 +1,15 @@
 # TrabalhoProgDispMoveis <br />
 Grupo = Marcos Antonio Salami <br />
-Descrição = Ainda não tem uma definição acerca do que o aplicativo vai fazer, primeiramente fiz a tela de perfil, tela de cadastramento e de login, dessa maneira ainda estou analisando mas pensei em criar um menu em que a pessoa pode ler receitas de bolos, e assim avaliar as receitas, e também compartilhar as receitas que ela faz<br />
-Linguagem Java e irei utilizar o Firebase para fazer os cadastros <br />
+Descrição = O software tem como ideia demonstrar receitas de bolo quando se clica na imagem, utilizando um clickview. Neste aplicativos temos quatro telas, tela de login, tela de cadastro, tela de perfil e a tela principal em que aparece os bolos.<br />
+O usuario deve fazer cadastramento, e dessa maneira ele pode entrar e verificar as receitas de bolo e modificar de acordo com seu gosto.<br />
+As entradas necessarias sao login e senha por email e uma senha de mais de seis digitos, tudo fica guardado no database do Firebase. <br />
+Linguagem Java  <br />
+Diversos testes foram feitos, seguindo como os das anotações de aula e tambem é possivel ver a tela inicial de login como requisitado.<br />
+Dentre os Recursos utilizados temos : Fragmentos, adapter, strings, cores, drawable, styles, GridView, Imagens.<br />
+Como visto, foram aplicados os conceitos para facilitar o uso do programa, além de uma estetica agradavel.<br />
 
-![Screenshot_4](https://user-images.githubusercontent.com/58121988/142077801-fcaf54b0-3609-4d65-8a65-78d2a6943ac0.png)
-![Screenshot_5](https://user-images.githubusercontent.com/58121988/142077789-9997a952-8718-4387-91a7-1958bddf9633.png)
-![Screenshot_6](https://user-images.githubusercontent.com/58121988/142077777-d2207f74-8968-4e20-844b-05047905067f.png)
+![Screenshot_1](https://user-images.githubusercontent.com/58121988/143460533-5795a01b-4680-407b-a475-710ffcf68278.png)
+![Screenshot_2](https://user-images.githubusercontent.com/58121988/143460548-ea5128e2-8451-4413-a4d9-bf7e4932a532.png)
+![Screenshot_3](https://user-images.githubusercontent.com/58121988/143460562-953467ec-67e9-400e-ad9d-9942ff113684.png)
+![Screenshot_4](https://user-images.githubusercontent.com/58121988/143460581-85cb453e-17be-4378-8f98-1f6746a94abc.png)
 
